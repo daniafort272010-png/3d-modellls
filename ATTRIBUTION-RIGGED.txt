@@ -1,0 +1,20 @@
+tung tung tung sahur with rig maybe
+
+Uploader / author credited in GLB metadata: Luxor
+https://sketchfab.com/ricardoatorres2016
+Source description also credits @nathanrolino.
+Source: https://sketchfab.com/3d-models/tung-tung-tung-sahur-with-rig-maybe-417a8a4c855d4e919f59c80a5aae4aef
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Original GLB is available unchanged at:
+https://github.com/daniafort272010-png/3d-modellls/blob/main/tung_tung_tung_sahur_with_rig_maybe.glb
+
+Conversion / changes for the external runtime payload:
+- Unity coordinate and UV conversion; normalized height to 1.8 model units.
+- Converted the 58-joint skin to 19 runtime controls; fingers/toes follow wrists/feet.
+- Solid log torso weights were merged to the chest to prevent face/body stretching.
+- Upper-arm weights along the cylinder were moved to the torso; the visible arm tubes
+  were split smoothly into upper/lower arm controls to correct source attachment pivots.
+- Separate runtime skeleton preserves Sahur's proportions while following game poses.
+No model geometry or texture is embedded in the DLL.
